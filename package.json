@@ -2,6 +2,9 @@
   "name": "song-request-search-worker",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "ytsr": "^3.8.4"
   }
